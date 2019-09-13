@@ -1,4 +1,10 @@
-
+.header {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  font-size:17px;
+}
 body {background-color: lightblue;margin-left:150px;margin-right:150px;text-align:left:}
 a{font-size:20px;}
 h1 {color: navy;
